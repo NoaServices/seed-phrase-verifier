@@ -1,1 +1,1 @@
-# seed-phrase-verifier
+# @tsiry/seed-phrase-verifier
