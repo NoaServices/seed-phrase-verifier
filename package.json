@@ -1,0 +1,15 @@
+{
+  "name": "@tsiry/seed-phrase-verifier",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tsiry Sandratraina",
+  "license": "ISC",
+  "dependencies": {
+    "@tsiry/eth-keyring-controller": "^4.0.0",
+    "loglevel": "^1.6.1"
+  }
+}
